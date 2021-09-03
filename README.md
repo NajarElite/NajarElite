@@ -1,2 +1,2 @@
 ![](https://komarev.com/ghpvc/?username=NajarElite&color=green)
-<img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=NajarElite&show_icons=true&theme=chartreuse-dark&locale=id">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Latip176&layout=compact)](https://github.com/Latip176/github-readme-stats)
